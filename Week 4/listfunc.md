@@ -1,0 +1,11 @@
+### Common strings method
+1. lower()
+2. upper()
+3. strip()
+4. lstrip()
+5. rstrip()
+6. endswith()
+7. count()
+8. isnumeric()
+9. join()
+10. split()
