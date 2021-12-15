@@ -1,5 +1,5 @@
-# Crash Course on Python
+## Crash Course on Python
 
-# Specialization Course 1 - by Google
+## Specialization Course 1 - Google IT Automation with Python Specialization
 
-# Coursera Course
+# Google (Coursera)
